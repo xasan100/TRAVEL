@@ -1,0 +1,160 @@
+@import url("http://fonts.cdnfonts.com/css/clarika-geometric");
+
+body {
+  font-family: "Clarika Geometric", sans-serif;
+}
+
+.text {
+  font-size: 24px;
+  line-height: 32px;
+}
+
+#modal-container {
+  width: 445px;
+  /* h */
+  height: 605px;
+}
+
+#modal-container h1 {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+  color: #0d1136;
+}
+
+form label {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 18px;
+  color: #0a0a0a;
+}
+
+form input {
+  margin-top: 5px;
+  background: #f6f8fa;
+  outline: none;
+  width: 370px;
+  height: 40px;
+  border: 1px solid #eff3f8;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.submit {
+  background: #f36326;
+  border-radius: 8px;
+  padding: 12px 22px;
+  color: #fff;
+  margin-left: 116px;
+}
+.footer-end{
+  margin-top: 100px ;
+  justify-content: space-between;
+}
+.samarqand-box{
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  gap: 0px 00px ;
+}
+ .col-span-4{
+    margin-top: 30px;
+  }
+@media only screen and (max-width: 600px) {
+  .samarqand-box {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: space-between;
+    font-size: 18px;
+    margin-left: 40px;
+  }
+  .col-span-4{
+    margin-top: 30px;
+  }
+}
+ 
+
+.button-end{
+  margin-top: 20px;
+text-align: center;
+}
+
+.samarqand-flex{
+display: flex;
+gap: 0px 40px;
+}
+
+.width-1{
+  width: 70%;
+}
+.samarqand-flex-derction{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  gap: 10px 0px ;
+  margin-top: 20px;
+}
+@media only screen and (max-width: 600px) {
+  .samarqand-flex-derction {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-size: 18px;
+   padding-left: 40px;
+    width: 80%;
+    margin-top: 20px;
+  }
+  
+}
+.imgfooter{
+background-image: url(../../assets/footer/footeendimg.png);
+}
+
+.samarqand-h1{
+font-weight: 700;
+font-size: 43px;
+color: #0E0E2C;
+}
+.samarqand-h5{
+font-weight: 600;
+font-size: 24px;
+color: #0E0E2C;
+}
+.text_sariq{
+  font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 32px;
+color: #F3692E;
+}
+.tetx-box-saqriq{
+  text-align: center;
+}
+
+
+@media only screen and (max-width: 600px) {
+  .samarqand-flex {
+    display: flex;
+    font-size: 18px;
+    width: 100%;
+
+  }
+  .text_sariq{
+    font-size: 20px;
+  }
+  .img-1{
+    width: 500px;
+    margin: 0 auto;
+ }
+ .swager-samrqand{
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+   gap: 10px 10px ;
+ }
+  .swager-samrqand1{
+    width: 100% ;
+
+
+  }
+}

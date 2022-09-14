@@ -1,0 +1,50 @@
+@import url("http://fonts.cdnfonts.com/css/clarika-geometric");
+
+body {
+  font-family: "Clarika Geometric";
+}
+
+.umrah_ul li {
+  list-style: inside;
+}
+
+.hotel_img {
+  width: 150px;
+  height: 150px;
+}
+
+.umrah-header {
+  background: linear-gradient(
+    177.28deg,
+    #000000 2.45%,
+    rgba(0, 0, 0, 0) 34.24%
+  );
+}
+
+.umrah-header {
+  background: linear-gradient(
+    177.28deg,
+    #000000 2.45%,
+    rgba(0, 0, 0, 0) 34.24%
+  ) !important;
+}
+
+.umrah-image {
+  background: url(../../assets/Images/umrah.png) no-repeat center center;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+  z-index: -1;
+}
+
+.band-btn {
+  background: #f36326;
+  border-radius: 8px;
+  width: 140px;
+  height: 56px;
+  padding: 18px 32px;
+  color: #fff;
+  letter-spacing: 0.005em;
+  font-size: 16px;
+  margin-left: 432px;
+}

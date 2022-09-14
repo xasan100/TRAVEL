@@ -1,0 +1,388 @@
+@import url("http://fonts.cdnfonts.com/css/clarika-geometric");
+
+body {
+  font-family: "Clarika Geometric", sans-serif;
+}
+
+.sectionNav,
+div {
+  left: 0 !important;
+  /* z-index: -1 !important; */
+}
+
+.header_section-one {
+  background: url(../../assets/Images/homeImag.png) no-repeat center center;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  z-index: -4;
+}
+
+.header-bc {
+  background: linear-gradient(90deg, #000000 0%, rgba(0, 0, 0, 0) 100%);
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  padding-top: 170px;
+}
+
+.header-content {
+  padding-left: 120px;
+  width: 650px;
+}
+
+.first-text {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  text-transform: uppercase;
+  color: #f36326;
+}
+
+.main-text {
+  font-family: "Clarika Geometric";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 60px;
+  /* line-height: 96px; */
+  letter-spacing: -0.04em;
+  color: #ffffff;
+  margin: 20px 0 20px 0;
+}
+
+.last-text {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 21.5px;
+  line-height: 32px;
+  letter-spacing: -0.04em;
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.header-content button {
+  margin-top: 40px;
+  width: 135px;
+  height: 56px;
+  color: #fff;
+  background: #f36326;
+  border-radius: 8px;
+}
+
+/* <<<<<<<<<<<<<<<<< Home Cards >>>>>>>>>>>>>>>>> */
+.home_cards {
+  padding-top: 15px;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.card_content {
+  margin-top: 40px;
+  padding-left: 145px;
+  padding-right: 150px;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.card-image {
+  border-radius: 5.31456px;
+  z-index: 5;
+  width: 265px;
+}
+
+.card-image img {
+  background: linear-gradient(
+    8.12deg,
+    #293748 -0.77%,
+    rgba(41, 55, 72, 0) 63.64%
+  );
+  object-fit: cover;
+  width: 250px;
+  /* height: 240px; */
+}
+
+.card-item h1 {
+  font-weight: 700;
+  font-size: 31.8874px;
+  line-height: 38px;
+  text-align: left;
+  margin-left: 20px;
+  margin-top: -60px;
+  margin-bottom: 30px;
+  color: #ffffff;
+}
+
+.home_urmrah {
+  background: #0b0815;
+  height: 100vh;
+}
+
+.home_umrah_content {
+  display: flex;
+  padding-left: 120px;
+  padding-right: 120px;
+}
+
+.home_umrah_image {
+  width: 100%;
+  height: 100vh;
+}
+
+.home_umrah_image img {
+  width: 90%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.home_urmrah_content_text {
+  color: #fff;
+  margin: 50px 0 0 0;
+  margin-right: 60px;
+  /* padding-left: 60px; */
+}
+
+.home_urmrah_content_text h1 {
+  font-weight: 700;
+  font-size: 64px;
+  letter-spacing: 0.003em;
+  width: 400px;
+}
+
+.home_urmrah_content_text p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  margin: 40px 0 20px 0;
+  letter-spacing: 0.005em;
+  width: 400px;
+}
+
+.home_urmrah_content_text button {
+  margin-top: 40px;
+  width: 135px;
+  height: 56px;
+  color: #fff;
+  background: #f36326;
+  border-radius: 8px;
+}
+
+/* <<<<<<<<<<<< Carousel Start >>>>>>>>>>>>>>> */
+.swiper {
+  width: 100%;
+  height: 70vh;
+  position: relative;
+}
+
+.swiper-button-prev {
+  position: absolute;
+  left: -7px !important;
+  right: auto !important;
+  top: 210px !important;
+  border: 7px solid #fff;
+  border-radius: 50%;
+  padding: 25px;
+  background: #0c111f;
+  color: #fff;
+  z-index: 100;
+}
+.swiper-button-next {
+  left: auto !important;
+  right: -7px !important;
+  top: 210px !important;
+  z-index: 500;
+  border: 7px solid #fff;
+  border-radius: 50%;
+  padding: 25px;
+  background: #0c111f;
+  color: #fff;
+}
+
+.swiper-slide {
+  position: absolute;
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* width: 360px !important; */
+  right: 30px !important;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* <<<<<<<<<<<< Carousel End >>>>>>>>>>>>>>> */
+
+.home_carousel {
+  padding-left: 90px;
+  padding-right: 120px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding-top: 70px;
+}
+
+.carousel_image img {
+  width: 330px;
+  border-radius: 8px;
+}
+
+/* Galereya */
+.home_galereya {
+  background: linear-gradient(180deg, #0b111a 0%, #1c244a 100%);
+  height: 100vh;
+  color: #fff;
+}
+
+.home_galereya_content {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding-top: 5px;
+}
+
+.home_galereya_images {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding-top: 35px;
+  height: 500px;
+}
+
+.home_galereya_images img {
+  margin: 10px 5px 5px 5px;
+}
+
+.home_galereya_content button {
+  margin-top: 40px;
+  width: 189px;
+  height: 56px;
+  color: #fff;
+  background: #f36326;
+  border-radius: 8px;
+  letter-spacing: 0.005em;
+  font-feature-settings: "liga" off;
+}
+
+/* About */
+.home_about {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.about-img img:nth-last-child(1) {
+  margin-left: 20px;
+}
+
+.about-text {
+  width: 300px;
+  text-align: left;
+  margin-right: 210px;
+}
+
+.about-text p {
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.about-text button {
+  color: #fff;
+  background: #f36326;
+  border-radius: 8px;
+  letter-spacing: 0.005em;
+  font-feature-settings: "liga" off;
+}
+
+/* Contact */
+.home_contact {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.home_contact_content p {
+  margin-left: 10px;
+}
+
+.home_contact_content div {
+  margin-right: 30px;
+}
+
+.home_contact button {
+  margin-top: 20px;
+  width: 160px;
+  height: 50px;
+  color: #fff;
+  background: #f36326;
+  border-radius: 8px;
+}
+
+@media (min-width: 350px) {
+  /* .header-content {
+    margin-left: 10px;
+    width: 370px;
+    text-align: center;
+    margin-top: 50px;
+    background-color: rgba(255, 255, 255, 0.101);
+    padding: 20px 10px;
+    border-radius: 8px;
+    line-height: 10px;
+  }
+  .main-text {
+    font-family: "Clarika Geometric";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 40px;
+    letter-spacing: -0.04em;
+    color: #ffffff;
+    margin: 50px 0 40px 0;
+    width: 370px;
+    text-transform: capitalize;
+  }
+  .last-text {
+    font-size: 16px;
+  }
+  .header_section-one {
+    background: url(../../assets/Images/homeImag.png) no-repeat center center;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    z-index: -1;
+  }
+
+  .header-bc {
+    background: linear-gradient(90deg, #000000 0%, rgba(0, 0, 0, 0) 100%);
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    padding-top: 110px;
+  }
+  .header-content button {
+    margin-top: 40px;
+    width: 125px;
+    height: 46px;
+    color: #fff;
+    background: #f36326cb;
+    border-radius: 8px;
+  } */
+
+  /* content-cards */
+}

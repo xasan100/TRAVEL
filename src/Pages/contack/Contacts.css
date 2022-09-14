@@ -1,0 +1,40 @@
+@import url("http://fonts.cdnfonts.com/css/clarika-geometric");
+
+body {
+  font-family: "Clarika Geometric";
+}
+.contact-header {
+  background: url("../../assets/contact.png") no-repeat center center;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+  z-index: -1;
+}
+
+.contact-bc {
+  background: linear-gradient(90deg, #000000 0%, rgba(0, 0, 0, 0) 100%);
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  padding-top: 170px;
+}
+
+.forma {
+  width: 510px;
+  height: 392px;
+  margin-left: 50px;
+  background: #ffffff;
+  box-shadow: 0px 49px 71px rgba(0, 0, 0, 0.08),
+    0px 4px 28px -4px rgba(0, 0, 0, 0.04);
+  border-radius: 16px;
+}
+
+form {
+  padding: 40px;
+}
+
+form div {
+  margin-bottom: 25px;
+}

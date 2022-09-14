@@ -1,0 +1,20 @@
+@import url("http://fonts.cdnfonts.com/css/clarika-geometric");
+
+body {
+  font-family: "Clarika Geometric";
+}
+.acc-header {
+  background: url(../../assets/Rectangle\ 9551.png);
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+}
+.acc-bc {
+  background: linear-gradient(90deg, #000000 0%, rgba(0, 0, 0, 0) 100%);
+}
+
+.attraction-content {
+  padding-left: 120px;
+  padding-right: 120px;
+}
+

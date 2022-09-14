@@ -1,0 +1,35 @@
+.footer {
+  padding-left: 120px;
+  padding-right: 120px;
+  justify-content: center;
+  align-items: center;
+  /* padding-top: 100px; */
+  /* position: absolute; */
+  bottom: 70px;
+}
+
+.footer-nav {
+  margin-right: 100px;
+}
+
+.footer-content-head-text {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  letter-spacing: -0.231818px;
+  margin-bottom: 15px;
+  color: #0c111f;
+}
+
+.footer-nav {
+  margin-right: 100px;
+}
+
+.footer-content-head-text {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  letter-spacing: -0.231818px;
+  margin-bottom: 15px;
+  color: #0c111f;
+}

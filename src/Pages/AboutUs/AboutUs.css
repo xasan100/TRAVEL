@@ -1,0 +1,40 @@
+.about-header {
+  background: url(../../assets/Images/about.png) no-repeat center center;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+  z-index: -1;
+}
+
+.about-content-main {
+  margin-top: 50px;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+}
+
+.about-content-main li {
+  margin-bottom: 20px;
+  width: 1110px;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  /* or 133% */
+
+  letter-spacing: -0.04em;
+}
+
+.location {
+  margin-top: 50px;
+  margin-bottom: 20px;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing: -0.04em;
+  color: #f3692e;
+}
+
+.about-content {
+  padding-left: 120px;
+  padding-right: 120px !important;
+}

@@ -1,0 +1,109 @@
+{
+  "main": "Asosiy",
+  "citys": "Shaharlar",
+  "pilgrimage": "Ziyoratlar",
+  "attractions": "Diqqatga sazovor joylar",
+  "gallery": "Asosiy savollar",
+  "about_Us": "Biz haqimizda",
+  "сommunication": "Aloqa",
+  "the_best": "DUNYONING ENG YAXSHI YERLARIDA ENG YAXSHI CHARTLAR",
+  "best_travel": "Eng yaxshi sayohat va yo'nalishlar",
+  "the_decent": "Biz bilan siz yangi sayohat va eng yaxshi narsalarni boshdan kechirishingiz mumkin sayyohlarni taklif qilishimiz kerak bo'lgan sayyohlik joylari biz taklif qilishimiz kerak bo'lgan yo'nalishlar",
+  "get_started": "Batafsil",
+  "turist_city": "Turistik shaharlar",
+  "umrah_name": "Umra ziyorati uchun hozir band qiling!",
+  "umrah_text": "Umra Qurʼoni karim oyati va Paygʻambarimiz (s.a.v.) sunnatlari bilan sobit bo'lgan amal. Umra safarini yil davomida bajarish mumkin. Umraning ikkita farzi bor: ehrom bog'lash va Kaʼbani tavof qilish.",
+  "see_all": "Barchasini ko'rish",
+  "karimov": "Islom Karimov muzeyi",
+  "navoiy": "Alisher Navoiy teatri",
+  "hazrati_d": "Hazrati Dovud ziyoratgohi",
+  "decent_info": "Decent Honest Travel kompaniyasi O'zbekiston Turizm xizmatlari bozorida yangi hisoblanadi. Hozirgi kunda o'z ishiga ma'suliyat bilan yondoshadigan professional xodimlar sizga dunyoning istalgan mintaqasiga turistik yo'llanmalar hamda qulay yo'nalishdagi aviachiptalar taklif qilish salohiyatiga ega. Shu bilan birga O'zbekistondagi vatandoshlarimizga hamda qo'shni mamlakat Musulmon axliga 2022 yildan boshlab Umra hamda Haj safarlarini amalga oshirishda ko'makdosh bo'lib kelmoqda. Bizning kompaniyamiz orqali siz o'zingizga qulay bo'lgan Makka hamda Madina Shaxarlariga mexmonxona aviachiptalar hamda chiptalarini xarid qilishingiz mumkin. ",
+  "learn_more": "Ko‘proq bilish",
+  "our_contacts": "Kontaktlarimiz",
+  "location": "Marg'ilon shahar Ahmad Yassaviy 94 uy",
+  "send_request": "So'rov yuborish",
+
+  "umra_2022": "Umra toʻplami 2022",
+  "departureDdate": "2022 yil 7 - 17 avgust | $ 1600 ",
+  "umrahPackage": "Umra paketi siz, mehmonimiz, Makka va Madinada vaqtingizdan zavqlanib, muqaddas Haramayndagi ziyoratga sho‘ng‘ib, Payg‘ambarimiz (s.a.v.) ketma-ket haj va umra amallarini bajaringlar, deb aytganlar. Chunki ular temirdan nopoklikni ketkazganidek, ular qashshoqlik va gunohni ketkazadi.",
+  "wePackages": "Biz paketlarimizni shunday rejalashtirganmizki, ular ziyoratchilarimizga Madinada besh kechani o'tkazishlari uchun sizga Payg'ambarimiz masjidida namoz o'qish, Payg'ambarimiz (s.a.v.)ning qabrini ziyorat qilish va Ravdada namoz o'qish imkonini beradi. Shunda siz Makkada besh kechani o'tkazasiz, u yerda har bir namozning savobi 100 000 namozga teng bo'ladigan shunday muborak joyda namoz o'qishning shirinligini totib ko'rasiz!",
+  "choosePackage": "Nima uchun bu paketni tanlaysiz?",
+  "servicePackage": "Siz nufuzli Umra kompaniyasi bilan sayohat qilasiz - eng yaxshi Umra operatori 2022, Buyuk O’zbekistonning eng yaxshi VIP va hashamatli haj turoperatori 2022 Sizga tajribali gid hamrohlik qiladi Siz Makka va Madinadagi eng yaxshi 5 yulduzli mehmonxonalarda qolasiz Siz Makkada ham, Madinada ham Haramaynga yaqin joyda turasiz ",
+  "itinerary:": "Marshrut:",
+  "infoPackage": "2022-yil 7-avgust Xitrou aeroportiga yetib boring, guruh rahbari bilan uchrashing va Madinaga Ar-Riyod orqali uchish uchun roʻyxatdan oʻting. SV1467-da Madinaga joʻnab, 2022-yil 8-avgust, soat 00:35da Madina aeroportiga yetib boring, An Warga oʻtkazing. -Madina Movenpick mehmonxonasi va roʻyxatdan oʻtish 2022-yil 10-avgust Madinada Ziyara safari 2022-yil 12-avgust Madinadan chiqib, Haramayn tezyurar temir yoʻli orqali Makkaga yoʻl oling (mavjud boʻlsa) Conrad Makkah mehmonxonasida roʻyxatdan oʻting va umra umrasini ado eting 15-avgust, 202-avgust. Makkada 2022-yil 17-avgust, Akkadan Jidda aeroportiga jo‘nab, SV115da soat 1020 da jo‘nab, ",
+  "whatnCluded": "Nima kiradi:",
+  "touristVisas": "Saudiya Arabistoni turistik vizalarini olish",
+  "returnFlights": "Saudiya bilan to'g'ridan-to'g'ri to'xtovsiz reyslar",
+  "hotelStar": "Anvar al-Madina Movenpick mehmonxonasida 5 kecha - 5 yulduzli turar joy",
+  "hotelConrad": "Conrad Makkah mehmonxonasida 5 kecha - 5 yulduzli mehmonxona",
+  "speedRailway": "Madinadan Makkaga Haramayn tezyurar temir yo'li orqali sayohat (mavjud bo'lsa)",
+  "graupLeader": "Guruh rahbarining xizmatlari",
+  "breakfast": "Mehmonxonalarda bo'lishingiz davomida bufet nonushtasi taqdim etiladi",
+  "ziyarahTrips": "Makkada ham, Madinada ham Ziyora safarlari",
+  "hotels": "Mehmonxonalar:",
+  "al-MadinahHotel": "Anvar al-Madina Movenpick mehmonxonasi - 5 yulduz",
+  "largesHhotel": "Anvar al Madinah Movenpick mehmonxonasi Madinadagi eng katta mehmonxona hisoblanadi. Bu oilalar, individual sayohatchilar va dam olish guruhlari uchun keng imkoniyatlarni taklif etadi. Al Nabaviy masjidiga qaragan Anvar al Madina Movenpick mehmonxonasi Payg'ambar masjidiga eng yaqin mehmonxonalardan biri bo'lib, ideal joyda joylashgan. Bu Ayollar namozi kirishiga eng yaqin mehmonxona. Makkada qulay xarid qilish uchun mehmonxona Jabal Umar majmuasidagi savdo markaziga to'g'ridan-to'g'ri kirish imkonini beradi.",
+  "howbBook": "How to book:",
+  "weRequire": "Bizga quyidagilar kerak bo'ladi:",
+  "paymentService": "To'ldirilgan bron qilish shakli; (odam boshiga bittadan) - to'ldirilgan bronlash formasini decent@gmail.com manziliga yuboring Bank o‘tkazmasi orqali to‘lash uchun quyidagi manzilga pul o‘tkazing:",
+  "touristTowns":"Barcha Turistik shaharlar",
+  "suggestionsUs":"Decent Honest Travel bilan siz yangi sayohatlar va biz taklif qilishimiz kerak bo'lgan eng yaxshi sayyohlik yo'nalishlarini boshdan kechirishingiz mumkin.",
+  "travel":"Sayohat - bu hayotingizning eng yaxshi vaqti! Shuning uchun biz hayotni sevadigan odamlar tomonidan ataylab tanlanganmiz. Ular uchun sayohat - bu yangi bilimlarni izlash, yangi hayot tajribasi, yangi his-tuyg'ularni o'zlashtirish.",
+  "worldWtour":"Dunyoning turistik shaharlari",
+  "attraction":"Diqqatga sazovor joylar",
+  "differentDirections":"Har qanday didga mos turlarning ulkan tanlovi. Bizda turli yo‘nalishlar va moliyaviy imkoniyatlarga mos ko‘plab qiziqarli takliflar mavjud.",
+  "karimovMuseum":"Islom Karimov muzeyi",
+  "firstPresident":"O‘zbekiston Respublikasi Birinchi Prezidentining hayoti va faoliyati haqida ko‘proq bilishni istaysizmi? Endi siz Islom Karimov nomidagi ilmiy-ma’rifiy yodgorlik majmuasi muzeyiga tashrif buyurishingiz mumkin. Muzeyning eski nomi - Oqsaroy Rezidensiyasi (Oq saroy), bu yerda Islom Karimov bir paytlar siyosiy faoliyatini olib borgan va ishlagan. Hashamatli saroyda, muzeydan tashqari, kutubxona va o‘quv zali, ilmiy markaz va anjumanlar zaliga tashrif buyurishingiz mumkin.",
+  "museumExhibits":"Muzey eksponatlari rezidentsiya zallarida joylashgan. Birinchi zalda siz fotosuratlar, hujjatlar va hatto prezidentning shaxsiy buyumlarini ko‘rishingiz mumkin. Ikkinchi xonada siz Islom Karimov asarlari to‘plamlari bilan tanishasiz. Qizig‘i shundaki, prezidentning o‘zi hech qachon rassomlar va fotosuratchilar uchun suratga tushmagan.",
+  "unusuaPpictures":"Ba’zi rasmlar juda qiziq, siz Islom Karimovni g‘ayrioddiy holda ko‘rishingiz mumkin, ularning syujetlari afsonaviy ertaklarga o‘xshaydi. Muzeyda shuningdek, smart ekranlar o‘rnatilgan, ularning yordami bilan siz Islom Karimov hayotidan qiziqarli ma’lumotlar bilan tanishishingiz mumkin.Majmua markazida piyodalar yo‘laklari va gul bilan o‘ralgan chiroyli bog‘ga ega. Saroy yonidagi balandlikda Islom Karimovning bronza haykali joylashgan.",
+
+  "aboutUs":"Biz haqimizda",
+  "ourCompany":"Bizning kompaniyamiz orqali siz o'zingizga qulay bo'lgan Makka hamda Madina Shaharlariga mexmonxona aviachiptalar hamda chiptalarini xarid qilishingiz mumkin.",
+  "informationSite":"Decent Honest Travel sayyohlik kompaniyasining axborot saytiga xush kelibsiz!",
+  "newMarket":"✔️ Decent Honest Travel kompaniyasi O‘zbekiston sayyohlik xizmatlari bozorida yangi hisoblanadi",
+  "haveniceTrip":"✔️ Decent Honest Travel kompaniyasining asosiy yo‘nalishlari mamlakatimizning tarixiy joylari, eng maftunkor go‘shalariga va bir qancha chet el davlatlariga maroqli sayohat uyushtirishingiz mumkin..",
+  "touristDestinations":"✔️ Kompaniyaning rivojlanishi bilan sayyohlik yo'nalishlari geografiyasi kengayadi. Bizning arsenalimiz ham guruh, ham individual ekskursiyalar o'z ichiga oladi.",
+  "ourFriend":"✔️ Har bir mehmon bizning do'stimiz va hamkorimiz! Biz mehmonlarimizga ularning talablari va ehtiyojlariga to'liq javob beradigan yuqori sifatli turistik mahsulotni taklif etamiz.",
+  "goodTime":"Sayohat - bu hayotingizning eng yaxshi vaqti! Shuning uchun biz hayotni sevadigan odamlar tomonidan ataylab tanlanganmiz. Ular uchun sayohat - bu yangi bilimlarni izlash, yangi hayot tajribasi, yangi his-tuyg'ularni o'zlashtirish.",
+  "discussion":"Sizning sayohatingizni muhokama qilishdan xursandmiz. Istalgan vaqtda biz bilan bog'laning. Bizni tanlaganingiz uchun tashakkur. Biz har doim sizga qulay narxlardagi qulay mehmonxonalarni topishda yordam berishdan mamnunmiz.",
+
+  "contact":"Biz bilan bo'glanish",
+  "connection":"Biz bilan bog'lansangiz, o'zingizni kuttirib qo'ymaysiz. Bizning turoperatorlarimiz har qanday so'rovingizga tez va samarali javob beradi.",
+  "decentCompany":"Decent Honest Travel kompaniyasi O'zbekiston Turizm xizmatlari bozorida yangi hisoblanadi. Hozirgi kunda o'z ishiga ma'suliyat bilan yondoshadigan professional xodimlar sizga dunyoning istalgan mintaqasiga turistik yo'llanmalar hamda qulay yo'nalishdagi aviachiptalar taklif qilish salohiyatiga ega. Shu bilan birga O'zbekistondagi vatandoshlarimizga hamda qo'shni mamlakat Musulmon axliga 2022 yildan boshlab Umra hamda Haj safarlarini amalga oshirishda ko'makdosh bo'lib kelmoqda.Qiziqarli sayohatlar olamida bizning mehmonimiz bo'ling!",
+  "address":"Marg'ilon shahar Ahmad Yassaviy 94 uy",
+  "email":"Email",
+  "name":"Ismi",
+  "info":"Ma'lumot",
+  "request":"So'rov yuborish",
+
+  "questions":"Ko'p so'raladigan savollar",
+  "surveyQuestions":"Turistlarning O‘zbekiston bo‘ylab sayohatga oid tez-tez so‘raladigan savollari",
+  "basicQuestions":"Asosiy savollar",
+  "uzbekistanLocated":"O'zbekiston qayerda joylashgan?",
+  "kitchen":"Sizning milliy oshxonangiz qanday?",
+  "passport":"Passport",
+  "international":"O‘zbekistonga sayohat uchun pasport/xalqaro pasportning amal qilish muddati qancha?",
+  "lost":"Sayohat paytida pasport yo'qolgan yoki o'g'irlangan. Nima qilish kerak?",
+  "viza":"Viza",
+  "term":"Diplomatik vakolatxonalar",
+  "border":"Chegara va pasport nazorati",
+  "signUp":"Registratsiya",
+  "holiday":"O'zbekistonda eng katta bayram qaysi?"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

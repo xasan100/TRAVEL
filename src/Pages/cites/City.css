@@ -1,0 +1,95 @@
+.city-header {
+  background: url(../../assets/Images/city.png) no-repeat center center;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+  z-index: -1;
+}
+
+.city-bc {
+  background: linear-gradient(90deg, #000000 0%, rgba(0, 0, 0, 0) 100%);
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  padding-top: 170px;
+}
+
+.cites-content {
+  padding-left: 120px;
+  padding-right: 120px;
+}
+
+.city-head-title {
+  font-weight: 700;
+  font-size: 75px;
+  line-height: 96px;
+  width: 634px;
+  letter-spacing: -0.04em;
+  color: #ffffff;
+}
+
+.city-head-text {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  width: 450px;
+  letter-spacing: -0.04em;
+  color: rgba(255, 255, 255, 0.7);
+  margin-top: 20px;
+}
+
+.city-content-main {
+  margin-top: 50px;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+}
+
+.city-content-main h1 {
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 120%;
+  letter-spacing: 0.005em;
+  color: #0e0e2c;
+  text-align: center;
+}
+
+.city-content-main p {
+  margin-top: 20px;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 32px;
+  letter-spacing: -0.04em;
+  color: #000000;
+  width: 1110px;
+}
+
+.card-image {
+  border-radius: 5.31456px;
+  z-index: 5;
+  width: 265px;
+}
+
+.card-image img {
+  background: linear-gradient(
+    8.12deg,
+    #293748 -0.77%,
+    rgba(41, 55, 72, 0) 63.64%
+  );
+  object-fit: cover;
+  width: 250px;
+  /* height: 240px; */
+}
+
+.card-item h2 {
+  font-weight: 700;
+  font-size: 31.8874px;
+  line-height: 38px;
+  text-align: left;
+  margin-left: 20px;
+  margin-top: -60px;
+  margin-bottom: 30px;
+  color: #ffffff;
+}
